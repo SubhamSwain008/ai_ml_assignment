@@ -6,6 +6,7 @@ from PIL import Image
 import random
 import math
 from collections import deque
+import tkinter
 
 # Define the A* algorithm
 def manhant_dis(cell1, cell2):
