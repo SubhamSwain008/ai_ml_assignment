@@ -2,3 +2,4 @@ streamlit
 pyamaze
 matplotlib
 Pillow
+tkinter
